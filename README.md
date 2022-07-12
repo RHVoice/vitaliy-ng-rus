@@ -5,6 +5,7 @@ This voice is distributed under [the Creative Commons Attribution-NonCommercial-
 * Artem Plaksin AKA maniyax — general leadership
 * Sergey Parshakov AKA Electrik — Editing of speaker recordings and sound processing
 * Beka Gozalishvili AKA Gozaltech — voice training
+* Zvonimir Stanecic AKA 9a5dsz — voice training
 * Speaker: Vitaliy Chuvaev (brandvoice of TV channel "Russia Today")
 
 ## Contact us ##
